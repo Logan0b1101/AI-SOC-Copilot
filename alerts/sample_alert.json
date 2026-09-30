@@ -1,0 +1,10 @@
+{
+    "alert_id": "ALERT-001",
+    "timestamp": "2026-09-30T20-30:00",
+    "source": "Windows Endpoint",    
+    "event_type": "Suspicious Powershell",
+    "severity": "high",
+    "user": "employee01",
+    "host": "WIN-CLIENT-01",
+    "description": "PowerShell executed a command that attempted to download a file from an external ip address"
+}

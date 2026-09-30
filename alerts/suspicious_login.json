@@ -1,0 +1,10 @@
+{
+    "alert_id": "ALERT-002",
+    "timestamp": "2026-09-30T21:15:00",
+    "source": "Microsoft Entra ID",
+    "event_type": "Suspicious Login",
+    "severity": "high",
+    "user": "employee02",
+    "host": "N/A",
+    "description": "Multiple failed login attempts were followed by a successful login from an unfamiliar location."
+}

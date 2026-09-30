@@ -1,0 +1,28 @@
+[
+    {
+        "timestamp": "2026-09-30T23:59:44.406551",
+        "alert_id": "ALERT-003",
+        "event_type": "Malware Download",
+        "risk_score": 75,
+        "risk_level": "CRITICAL",
+        "mitre": {
+            "technique": "T1105",
+            "name": "Ingress Tool Transfer"
+        },
+        "status": "Investigating",
+        "analyst_notes": "started"
+    },
+    {
+        "timestamp": "2026-10-01T00:00:19.015000",
+        "alert_id": "ALERT-002",
+        "event_type": "Suspicious Login",
+        "risk_score": 30,
+        "risk_level": "MEDIUM",
+        "mitre": {
+            "technique": "T1078",
+            "name": "Valid Accounts"
+        },
+        "status": "New",
+        "analyst_notes": "coming \n"
+    }
+]
