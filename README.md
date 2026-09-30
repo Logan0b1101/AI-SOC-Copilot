@@ -28,43 +28,5 @@ The AI is used as an assistant and is not treated as the final authority.
 
 # 🏗️ Architecture
 
-```text
-                  Security Alert
-                        │
-                        ▼
-              ┌──────────────────┐
-              │ Alert Input      │
-              │ JSON / Wazuh     │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │ Wazuh Adapter   │
-              │ Normalization    │
-              └────────┬─────────┘
-                       │
-                       ▼
-        ┌──────────────────────────────┐
-        │      Security Analysis       │
-        │                              │
-        │  Risk Engine                 │
-        │  MITRE Validation            │
-        └──────────────┬───────────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │ Local AI         │
-              │ Ollama           │
-              │ Llama 3.2 3B     │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │ Analyst Review   │
-              │ Status + Notes   │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │ Audit Logging    │
-              └──────────────────┘
+<img width="1160" height="1356" alt="1" src="https://github.com/user-attachments/assets/83b4a109-8a4b-4ade-87a4-49f52b312621" />
+
