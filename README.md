@@ -30,4 +30,8 @@ The AI is used as an assistant and is not treated as the final authority.
 
 <img width="1160" height="1356" alt="1" src="https://github.com/user-attachments/assets/83b4a109-8a4b-4ade-87a4-49f52b312621" />
 
+<img width="1263" height="568" alt="Screenshot_1-10-2026_921_localhost" src="https://github.com/user-attachments/assets/9cfafffd-5741-4ecb-bad8-d6e691e386c5" />
+
+<img width="1263" height="646" alt="Screenshot_1-10-2026_9236_localhost" src="https://github.com/user-attachments/assets/8ac51348-0e33-4a5b-bb4a-7a3c0d3b3023" />
+
 
